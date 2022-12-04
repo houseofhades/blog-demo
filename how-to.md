@@ -29,13 +29,23 @@ Name the file as per the format `YYYY-MM-DD-title.md`.
 
 #### Step-3:
 
-The file body must start with 
+The file body must start with `details block`
 ```
 ---
 title: "My Title"
 date: YYYY-MM-DD
 ---
 ```
+- You can add `author:` key to the details block to display your username on the blog.  
+  The details block should now look like...
+  ```
+  ---
+  title: "My Title"
+  date: YYYY-MM-DD
+  author: "My GitHub username"
+  ---
+  ```
+  Note that this guide ***doesn't*** mention author key anywhere further in this guide.  
 Basic formatting syntax is mentioned in the below image.  
 ![Edit](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/Edit.png)  
 
