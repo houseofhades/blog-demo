@@ -36,7 +36,7 @@ title: "My Title"
 date: YYYY-MM-DD
 ---
 ```
-- You can add `author:` key to the details block to display your username on the blog.  
+- You can ***optionally*** add `author:` key to the details block to display your username on the blog.  
   The details block should now look like...
   ```
   ---
