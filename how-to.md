@@ -46,6 +46,7 @@ date: YYYY-MM-DD
   ---
   ```
   Note that this guide ***doesn't*** mention author key anywhere further in this guide.  
+    
 Basic formatting syntax is mentioned in the below image.  
 ![Edit](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/Edit.png)  
 
