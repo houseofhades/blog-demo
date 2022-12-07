@@ -3,4 +3,18 @@ Title: "Our Four Sins"
 Date: 2022-12-04
 Author: heyysiri
 ---
-<img width="333" alt="2022-12-04" src="https://user-images.githubusercontent.com/113199947/205488008-76758a64-1ab9-4364-bc91-9ae5e066cb17.png">
+
+Our Four Sins 
+
+In the end, after all, were you just a sweet dream?  
+Did you even exist in my life, or have I in yours?  
+Chance happened to bring us both together  
+But, sadly, Fate had different plans to scheme  
+My poetry seems to remind me of you too much  
+So, what was I supposed to do?   
+Weep over my ink that only bled your name, to erase you  
+Or hope that Luck gambles in the air between us  
+Only to make sure Fortune intervenes
+
+				By Siri
+
