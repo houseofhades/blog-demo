@@ -3,7 +3,7 @@ author: "KMIT Students"
 description: "Classroom blogs where students can share their ideas."
 
 theme: "minima"
-github_username: "KMIT-Students"
+github_username: "KMIT-Anubav"
 
 kramdown:
   syntax_highlighter_opts:

@@ -29,13 +29,24 @@ Name the file as per the format `YYYY-MM-DD-title.md`.
 
 #### Step-3:
 
-The file body must start with 
+The file body must start with `details block`
 ```
 ---
 title: "My Title"
 date: YYYY-MM-DD
 ---
 ```
+- You can ***optionally*** add `author:` key to the details block to display your username on the blog.  
+  The details block should now look like...
+  ```
+  ---
+  title: "My Title"
+  date: YYYY-MM-DD
+  author: "My GitHub username"
+  ---
+  ```
+  Note that this guide ***doesn't*** mention author key anywhere further in this guide.  
+    
 Basic formatting syntax is mentioned in the below image.  
 ![Edit](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/Edit.png)  
 
@@ -52,3 +63,17 @@ You will now see an page that says `Comparing Changes`. Click The Green button s
 Change the name of Pull Request to the Title of your blog and click `Create Pull Request`.  
 Your file will now be reviewed and your blog will be posted soon.  
 Check [https://kmit-anubhav.github.io](https://kmit-anubhav.github.io) to see if your blog is published. Note that this ***will*** take some time.
+
+## Instructions to enable using comments on blogs:
+
+### Prerequisites:
+- A GitHub Account.
+
+### Procedure:
+- Go to the blog post on which you want to commit and click on `Sign in with GitHub` button.  
+  
+![Comment](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/comment.png)  
+  
+- You will see a page that will request you to give permissions to Giscus via your github account. Accept it and you are ready to go.  
+  
+![Giscus](https://github.com/KMIT-Anubhav/kmit-anubhav.github.io/raw/my-pages/img/giscus.png)  
