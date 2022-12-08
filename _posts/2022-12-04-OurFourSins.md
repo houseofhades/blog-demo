@@ -1,10 +1,10 @@
 ---
-Title: "Our Four Sins"
-Date: 2022-12-04
-Author: heyysiri
+title: "Our Four Sins"
+date: 2022-12-04
+author: heyysiri
 ---
 
-Our Four Sins 
+# Our Four Sins 
 
 In the end, after all, were you just a sweet dream?  
 Did you even exist in my life, or have I in yours?  
@@ -14,7 +14,7 @@ My poetry seems to remind me of you too much
 So, what was I supposed to do?   
 Weep over my ink that only bled your name, to erase you  
 Or hope that Luck gambles in the air between us  
-Only to make sure Fortune intervenes
-
-				By Siri
+Only to make sure Fortune intervenes  
+  
+<p align='right'>- By Siri<p>
 
